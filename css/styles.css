@@ -1,0 +1,28 @@
+body {
+  background: var(--main-bg-color);
+  color: var(--main-font-color);
+}
+
+.body-wrapper {
+  display: flex;
+  background: var(--primary-color);
+  max-width: 1440px;
+  margin: 0 auto;
+  border-radius: 14px;
+}
+
+.content {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-widgets {
+  padding: 55px;
+}
+
+
+.top-wrapper {
+
+}

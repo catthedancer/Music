@@ -1,0 +1,9 @@
+:root {
+  --main-bg-color: rgb(24, 45, 73);
+  --main-font-color: white;
+  --primary-color: rgb(10, 25, 43);
+  --secondary-color: rgb(0, 232, 204);
+  --secondary-color-hover: rgb(0, 232, 204, .5);
+  --color-gray: rgb(133, 141, 149);
+  --color-gray-border: rgb(133, 141, 149, 0.3)
+}
